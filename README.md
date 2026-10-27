@@ -34,9 +34,6 @@ The goal is simple — a model that anyone can run, modify, and contribute to.
 > ⚠️ Sol is currently in early development. Instructions will be updated as the project progresses.
 
 Download from the Releases tab. 
-```
-
----
 
 ## 🛠️ Tech Stack
 
